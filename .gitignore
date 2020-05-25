@@ -115,6 +115,7 @@ node_modules/
  *.iml
  *.ipr
  .idea/
+ .idea/sample_app.iml
 
 # CMake
 cmake-build-*/
